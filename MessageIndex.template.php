@@ -52,7 +52,7 @@ function template_main()
 						</a>
 					</td>
 					<td class="info td-boards">
-						<a class="subject" href="', $board['href'], '" name="b', $board['id'], '">', $board['name'], '</a>',(!empty($modSettings['enable_board_viewers'])) ? $board['viewer_text'] : '','';
+						<a class="subject" href="', $board['href'], '" name="b', $board['id'], '">', $board['name'], '</a>';
 
 			// Has it outstanding posts for approval?
 			if ($board['can_approve_posts'] && ($board['unapproved_posts'] || $board['unapproved_topics']))
