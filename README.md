@@ -1,6 +1,6 @@
 ![SMF Tricks - Free & Premium Mods and Themes for SMF](https://smftricks.com/logos/logo.png)
 
-![Theme Preview](https://custom.simplemachines.org/index.php?action=download;theme=2744;attach=227225;image)
+![Theme Preview](https://custom.simplemachines.org/index.php?action=download;theme=2667;attach=214639;image)
  
 ## MundoNet V2
 ![License](https://img.shields.io/badge/License-MPL2.0-a05a3f?style=flat-square) ![SMF 2.0](https://img.shields.io/badge/SMF-2.0-996ee1?style=flat-square) ![Responsive](https://img.shields.io/badge/Responsive-No-6e97e1?style=flat-square)
