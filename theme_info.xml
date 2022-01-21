@@ -3,7 +3,7 @@
 	<id>smftricks:mnv2</id>
 	<version>1.1.1</version>
 	<name>MundoNet v2</name>
-	<author name="SMF Tricks">diegoandres_cortes@outlook.com</author>
+	<author name="SMF Tricks">admin@smftricks.com</author>
 	<website>https://www.smftricks.com</website>
 	<layers>html,body</layers>
 	<templates>index</templates>
